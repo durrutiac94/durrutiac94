@@ -1,6 +1,6 @@
-# Hola Humanos 👋
+# Hola! 👋
 
-<img width="480" height="360" alt="1472573904-mr-burns-alien" src="https://github.com/user-attachments/assets/3c274967-bbed-4327-a4cd-d4a78290d2fc" />
+<img width="320" height="240" alt="1472573904-mr-burns-alien" src="https://github.com/user-attachments/assets/3c274967-bbed-4327-a4cd-d4a78290d2fc" />
 
 <!--
 **durrutiac94/durrutiac94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
