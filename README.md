@@ -1,9 +1,9 @@
-# Hola! 👋
+# Hola! 👋 Soy Daniel Urrutia 
 
 - 🔭 I’m currently looking for job opportunities
 - 🌱 I’m currently learning Python Web Development With Django
 - 📫 How to reach me: durrutiac94@gmail.com
-- ⚡ Fun fact: I just started playing Magic The Gathering and Machine Party
+- ⚡ Fun fact: Playing Magic The Gathering and Machine Party
 
 
 <!--
