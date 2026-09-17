@@ -1,4 +1,4 @@
-# Hola! 👋 Soy Daniel Urrutia 
+# Hi! 👋 I'm Daniel
 
 - 🔭 I’m currently looking for job opportunities
 - 🌱 I’m currently learning Python Web Development With Django
