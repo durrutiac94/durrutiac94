@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Daniel
 
 - 🔭 I’m currently looking for job opportunities
-- 🌱 I’m currently learning Python Web Development With Django
+- 🌱 I’m currently learning Web Development With Django (Bootcamp Desafio LATAM)
 - 📫 How to reach me: durrutiac94@gmail.com
 - ⚡ Fun fact: Playing Magic The Gathering and Machine Party
 
