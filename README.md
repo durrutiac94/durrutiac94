@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently looking for job opportunities
 - 🌱 I’m currently learning Web Development With Django (Bootcamp Desafio LATAM)
-- 📫 How to reach me: durrutiac94@gmail.com
-- ⚡ Fun fact: Playing Magic The Gathering and Machine Party
+- 📫 How to reach me: durrutiac94@gmail.com // linkedin.com/in/daniel-urrutia-carvajal
 
 
 <!--
